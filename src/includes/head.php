@@ -6,5 +6,5 @@
 
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
   
-  <title>Frontend Mentor | Meet landing page</title>
+  <title>Meet landing page</title>
 </head>
